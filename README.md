@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently leveraging my skills on Laravel, Vue.js and Inertia.js<br>👨‍🎓 Studied BS in Information Technology Major in Database at Mindanao State University - General Santos City
+🌱 I’m currently leveraging my skills on Vue.js and Inertia.js<br>👨‍🎓 Studied BS in Information Technology Major in Database at Mindanao State University - General Santos City
 
 
 ## 🌐 Socials:
